@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shangda Yang</title>
-    <link>http://MKCodeMan.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Shangda Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Apr 2024 14:37:11 +0800</lastBuildDate>
-    <atom:link href="http://MKCodeMan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IdPhotoMan</title>
-      <link>http://MKCodeMan.github.io/tags/idphotoman/</link>
+      <link>http://localhost:1313/tags/idphotoman/</link>
       <pubDate>Tue, 02 Apr 2024 14:37:11 +0800</pubDate>
-      <guid>http://MKCodeMan.github.io/tags/idphotoman/</guid>
+      <guid>http://localhost:1313/tags/idphotoman/</guid>
       <description></description>
     </item>
   </channel>
