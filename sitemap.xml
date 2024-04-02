@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://MKCodeMan.github.io/posts/privacypolicy_idphotoman_koera_ios/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-  </url><url>
     <loc>http://MKCodeMan.github.io/authors/</loc>
     <lastmod>2024-04-02T14:37:11+08:00</lastmod>
   </url><url>
@@ -21,6 +18,9 @@
     <lastmod>2024-04-02T14:37:11+08:00</lastmod>
   </url><url>
     <loc>http://MKCodeMan.github.io/tags/</loc>
+    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
+  </url><url>
+    <loc>http://MKCodeMan.github.io/posts/privacypolicy_idphotoman_koera_ios/</loc>
     <lastmod>2024-04-02T14:37:11+08:00</lastmod>
   </url><url>
     <loc>http://MKCodeMan.github.io/posts/privacypolicy_idphotoman_japan_ios/</loc>
