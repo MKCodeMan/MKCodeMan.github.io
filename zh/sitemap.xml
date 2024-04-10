@@ -91,18 +91,6 @@
                 href="http://MKCodeMan.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>http://MKCodeMan.github.io/zh/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://MKCodeMan.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://MKCodeMan.github.io/zh/contact/"
-                />
-  </url><url>
     <loc>http://MKCodeMan.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -113,6 +101,18 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://MKCodeMan.github.io/zh/series/"
+                />
+  </url><url>
+    <loc>http://MKCodeMan.github.io/zh/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://MKCodeMan.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://MKCodeMan.github.io/zh/contact/"
                 />
   </url>
 </urlset>
