@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts_副本s on Shangda Yang</title>
+    <link>http://localhost:1313/posts_%E5%89%AF%E6%9C%AC/</link>
+    <description>Recent content in Posts_副本s on Shangda Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Apr 2024 14:37:11 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts_%E5%89%AF%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>개인 정보 정책</title>
+      <link>http://localhost:1313/posts_%E5%89%AF%E6%9C%AC/privacypolicy_idphotoman_koera_ios/</link>
+      <pubDate>Tue, 02 Apr 2024 14:37:11 +0800</pubDate>
+      <guid>http://localhost:1313/posts_%E5%89%AF%E6%9C%AC/privacypolicy_idphotoman_koera_ios/</guid>
+      <description>개인 정보 정책 Link to heading 우리의 응용 프로그램을 사용해 주셔서 감사합니다. 우리 애플리케이션에서는 사용자의 개인 정보를 존중하고 보호합니다. 본 개인정보 보호정책은 당사가 사용자의 개인정보를 수집, 사용 및 공개하는 방법을 설명합니다.&#xA;정보 수집 및 사용 Link to heading 당사 애플리케이션은 사용자가 자발적으로 제공하지 않는 한 사용자의 개인정보를 수집, 저장 또는 공유하지 않습니다. 사용자가 당사 애플리케이션을 사용할 때 당사는 사진 라이브러리에 대한 액세스 또는 카메라 권한과 같은 특정 개인 정보를 요청할 수 있습니다.</description>
+    </item>
+  </channel>
+</rss>
