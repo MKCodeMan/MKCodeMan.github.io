@@ -1,50 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:1313/authors/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/idphotoman/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/shangda-yang/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/privacypolicy_idphotoman_koera_ios/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/privacypolicy_idphotoman_japan_ios/</loc>
-    <lastmod>2024-04-01T21:35:46+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/privacypolicy_idphotoman_chinesej_ios/</loc>
-    <lastmod>2024-04-01T21:32:22+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/privacypolicy_idphotoman_en_ios/</loc>
-    <lastmod>2024-03-29T21:03:43+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2023-01-04T23:21:18+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categoria/temas/</loc>
-    <lastmod>2023-01-04T23:21:18+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categoria/sintaxe/</loc>
-    <lastmod>2023-01-04T23:21:06+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://MKCodeMan.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2024-04-02T14:37:11+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://MKCodeMan.github.io/zh/sitemap.xml</loc>
+    
+      <lastmod>2024-04-01T21:32:22+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
