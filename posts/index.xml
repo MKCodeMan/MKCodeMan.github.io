@@ -6,21 +6,28 @@
     <description>Recent content in Posts on Shangda Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Apr 2024 10:27:06 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 15:58:33 +0800</lastBuildDate>
     <atom:link href="http://MKCodeMan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>NSWindow学习</title>
-      <link>http://MKCodeMan.github.io/posts/%E5%AD%A6%E4%B9%A0/osx%E5%BC%80%E5%8F%91/nswindow%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Mon, 15 Apr 2024 10:27:06 +0800</pubDate>
-      <guid>http://MKCodeMan.github.io/posts/%E5%AD%A6%E4%B9%A0/osx%E5%BC%80%E5%8F%91/nswindow%E5%AD%A6%E4%B9%A0/</guid>
-      <description>在iOS开发中与之对应的是UIWindow，我们操作的主要是UIView和UIViewController。对window的操作不多，而在macOS中，NSWindow用于设置窗口的外观和行为。&#xA;styleMask Link to heading 用于设置窗口样式，在window初始化时可以设置。&#xA;常用配置 Link to heading 1.NSWindowStyleMaskTitled: 窗口有标题栏。 2.NSWindowStyleMaskClosable: 窗口可以关闭。 3.NSWindowStyleMaskResizable: 窗口可以调整大小。 4.NSWindowStyleMaskMiniaturizable: 窗口可以最小化。 5.NSWindowStyleMaskFullScreen: 窗口可以全屏显示。 6.NSWindowStyleMaskBorderless: 窗口没有边框。 7.NSWindowStyleMaskUtilityWindow: 窗口作为工具窗口显示。 8.NSWindowStyleMaskHUDWindow: 窗口作为HUD（Head-Up Display）风格显示。&#xA;BackingStoreType Link to heading 1.NSBackingStoreRetained: 使用可保留的后备存储。窗口内容被绘制到内存中，并在需要时缓存以提高性能。这是默认值，适用于大多数情况。 2.NSBackingStoreNonretained: 使用非保留的后备存储。窗口内容被绘制到内存中，但不会被缓存，而是每次显示时都重新绘制。这可能会导致性能降低，但在某些情况下可能是必要的，例如动态内容的窗口。 3.NSBackingStoreBuffered: 使用缓冲的后备存储。窗口内容被绘制到图形处理单元的缓冲区中，并根据需要复制到屏幕上。这通常用于OpenGL或其他图形处理技术，以便更有效地管理窗口内容。&#xA;初始化 Link to heading let window = NSWindow(contentRect: NSRect(x: 0, y: 0, width: 800, height: 600), styleMask: [.titled, .closable, .miniaturizable, .resizable], backing: .buffered, defer: false) //是否延迟执行 // 设置窗口标题 window.title = &amp;#34;My App&amp;#34; </description>
+      <title>アメリカ合衆国の写真規格・条件</title>
+      <link>http://MKCodeMan.github.io/posts/idphotopro/%E8%A7%84%E6%A0%BC%E8%A6%81%E6%B1%82/%E7%AD%BE%E8%AF%81%E8%A6%81%E6%B1%82_%E6%97%A5%E6%96%87/usa_visa_japan/</link>
+      <pubDate>Sat, 13 Apr 2024 15:58:33 +0800</pubDate>
+      <guid>http://MKCodeMan.github.io/posts/idphotopro/%E8%A7%84%E6%A0%BC%E8%A6%81%E6%B1%82/%E7%AD%BE%E8%AF%81%E8%A6%81%E6%B1%82_%E6%97%A5%E6%96%87/usa_visa_japan/</guid>
+      <description>縦×横サイズ Link to heading 600x600(px) ～ 1200x1200(px)&#xA;その他の要件 Link to heading 写真は6か月以内にカラーで撮影されたものである必要があります ファイルサイズ240KB以下 JPEGファイル形式 頭の高さや顔の大きさは(頭髪を含む頭上から顎先までを測定)、写真全体の高さの 50％から 69％でなければなりません。 目の高さ(写真の底辺から目の位置を測定）は写真全体の高さの 56％から 69％であること。 詳細 Link to heading アメリカでのビザ申請時には、オンラインビザ申請書の作成が必要です。作成方法については以下のサイトで解説されていますので、アメリカビザ取得をお考えの方はご確認を。 DS-160(オンラインビザ申請書)の作成方法と記入例 | ESTA Online Center&#xA;日本国籍をお持ちの方で一般観光や短期ビジネスを目的とする方は、ビザを取得しなくとも最長90日の滞在が認められます。この場合、ESTA（電子渡航認証制度）の取得が必要です。 ESTAのオンライン申請はこちらから可能です。 ESTA&#xA;新しいオンラインビザ申請のためのデジタル画像要件</description>
     </item>
     <item>
-      <title>NSApplication学习</title>
-      <link>http://MKCodeMan.github.io/posts/%E5%AD%A6%E4%B9%A0/osx%E5%BC%80%E5%8F%91/nsapplication%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Mon, 15 Apr 2024 10:15:34 +0800</pubDate>
-      <guid>http://MKCodeMan.github.io/posts/%E5%AD%A6%E4%B9%A0/osx%E5%BC%80%E5%8F%91/nsapplication%E5%AD%A6%E4%B9%A0/</guid>
-      <description>NSApplication是Cocoa框架中的一个类，用于创建和管理Mac应用的主事件循环和事件处理，是macOS应用的基础。&#xA;App无storyboard启动 Link to heading 1.首先删除main.storyboard文件，然后再Build Setting中AppKit Main Storyboard File Base Name清空。 2.创建main.swift文件 3.移除AppDelegate中*@main* 4.在mian中添加代码&#xA;let app = NSApplication.shared let delegate = AppDelegate() app.delegate = delegate app.run() 5.在AppDelegate中配置应用的菜单和窗口等</description>
+      <title>イランの写真規格・条件</title>
+      <link>http://MKCodeMan.github.io/posts/idphotopro/%E8%A7%84%E6%A0%BC%E8%A6%81%E6%B1%82/%E7%AD%BE%E8%AF%81%E8%A6%81%E6%B1%82_%E6%97%A5%E6%96%87/iran_visa_japan/</link>
+      <pubDate>Sat, 13 Apr 2024 15:58:33 +0800</pubDate>
+      <guid>http://MKCodeMan.github.io/posts/idphotopro/%E8%A7%84%E6%A0%BC%E8%A6%81%E6%B1%82/%E7%AD%BE%E8%AF%81%E8%A6%81%E6%B1%82_%E6%97%A5%E6%96%87/iran_visa_japan/</guid>
+      <description>縦×横サイズ Link to heading 400x600(px)&#xA;その他の要件 Link to heading 色で JPEG (.jpg または .jpeg) ファイルサイズ500kB（キロバイト）以下（10kB未満は不可） 長方形のアスペクト比 (高さは幅より大きくなければなりません) サイズは400（最小幅）×600（最小高さ）ピクセルで、写真の約70〜80％が応募者の顔で占められている必要があります 詳細 Link to heading イランはオンラインにてビザ申請が可能です。申請後は書類を大使館へ持っていくか、郵送する必要があります。事前申請をせず、現地空港でアライバルビザを取得することも可能なようですが、費用が高い（7,000〜8,000円ほど）、最悪の場合ビザが降りないなどデメリットが目立ちますので、あらかじめ本国で取っておくことをおすすめいたします。 申請はこちらのサイトから行えます:Iran Electronic Visa&#xA;詳細</description>
+    </item>
+    <item>
+      <title>インドの写真規格・条件</title>
+      <link>http://MKCodeMan.github.io/posts/idphotopro/%E8%A7%84%E6%A0%BC%E8%A6%81%E6%B1%82/%E7%AD%BE%E8%AF%81%E8%A6%81%E6%B1%82_%E6%97%A5%E6%96%87/india_visa_japan/</link>
+      <pubDate>Sat, 13 Apr 2024 15:58:33 +0800</pubDate>
+      <guid>http://MKCodeMan.github.io/posts/idphotopro/%E8%A7%84%E6%A0%BC%E8%A6%81%E6%B1%82/%E7%AD%BE%E8%AF%81%E8%A6%81%E6%B1%82_%E6%97%A5%E6%96%87/india_visa_japan/</guid>
+      <description>縦×横サイズ Link to heading 600x600(px) ～ 1200x1200(px)&#xA;その他の要件 Link to heading 写真は6か月以内にカラーで撮影されたものである必要があります ファイルサイズ240KB以下 JPEGファイル形式 頭の高さや顔の大きさは(頭髪を含む頭上から顎先までを測定)、写真全体の高さの 50％から 69％でなければなりません。 目の高さ(写真の底辺から目の位置を測定）は写真全体の高さの 56％から 69％であること。 詳細 Link to heading アメリカでのビザ申請時には、オンラインビザ申請書の作成が必要です。作成方法については以下のサイトで解説されていますので、アメリカビザ取得をお考えの方はご確認を。 DS-160(オンラインビザ申請書)の作成方法と記入例 | ESTA Online Center&#xA;日本国籍をお持ちの方で一般観光や短期ビジネスを目的とする方は、ビザを取得しなくとも最長90日の滞在が認められます。この場合、ESTA（電子渡航認証制度）の取得が必要です。 ESTAのオンライン申請はこちらから可能です。 ESTA&#xA;新しいオンラインビザ申請のためのデジタル画像要件</description>
     </item>
     <item>
       <title>各種免許・申請書・パスポート証明写真のサイズ一覧</title>

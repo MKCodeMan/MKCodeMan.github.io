@@ -2,21 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://MKCodeMan.github.io/zh/tags/idphotoman/</loc>
-    <lastmod>2024-04-01T21:32:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://MKCodeMan.github.io/tags/idphotoman/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://MKCodeMan.github.io/zh/tags/idphotoman/"
-                />
+    <loc>http://MKCodeMan.github.io/zh/tags/mac%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2024-04-15T10:27:06+08:00</lastmod>
+  </url><url>
+    <loc>http://MKCodeMan.github.io/zh/posts/%E5%AD%A6%E4%B9%A0/osx%E5%BC%80%E5%8F%91/nswindow%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-04-15T10:27:06+08:00</lastmod>
   </url><url>
     <loc>http://MKCodeMan.github.io/zh/posts/</loc>
-    <lastmod>2024-04-01T21:32:22+08:00</lastmod>
+    <lastmod>2024-04-15T10:27:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +22,7 @@
                 />
   </url><url>
     <loc>http://MKCodeMan.github.io/zh/tags/</loc>
-    <lastmod>2024-04-01T21:32:22+08:00</lastmod>
+    <lastmod>2024-04-15T10:27:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,8 +34,11 @@
                 href="http://MKCodeMan.github.io/zh/tags/"
                 />
   </url><url>
+    <loc>http://MKCodeMan.github.io/zh/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-04-15T10:27:06+08:00</lastmod>
+  </url><url>
     <loc>http://MKCodeMan.github.io/zh/</loc>
-    <lastmod>2024-04-01T21:32:22+08:00</lastmod>
+    <lastmod>2024-04-15T10:27:06+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,6 +48,22 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://MKCodeMan.github.io/zh/"
+                />
+  </url><url>
+    <loc>http://MKCodeMan.github.io/zh/posts/%E5%AD%A6%E4%B9%A0/osx%E5%BC%80%E5%8F%91/nsapplication%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-04-15T10:15:34+08:00</lastmod>
+  </url><url>
+    <loc>http://MKCodeMan.github.io/zh/tags/idphotoman/</loc>
+    <lastmod>2024-04-01T21:32:22+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://MKCodeMan.github.io/tags/idphotoman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://MKCodeMan.github.io/zh/tags/idphotoman/"
                 />
   </url><url>
     <loc>http://MKCodeMan.github.io/zh/posts/idphotopro/%E9%9A%90%E7%A7%81%E5%8D%8F%E8%AE%AE/privacy_policy_idphotoman_chinesej_ios/</loc>
