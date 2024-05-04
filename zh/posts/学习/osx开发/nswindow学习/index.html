@@ -20,23 +20,28 @@ BackingStoreType Link to heading 1.NSBackingStoreRetained: 使用可保留的后
 初始化 Link to heading let window = NSWindow(contentRect: NSRect(x: 0, y: 0, width: 800, height: 600), styleMask: [.titled, .closable, .miniaturizable, .resizable], backing: .buffered, defer: false) //是否延迟执行 // 设置窗口标题 window.title = &#34;My App&#34; ">
 <meta name="keywords" content="博客,开发者,生活">
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="NSWindow学习"/>
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="NSWindow学习">
 <meta name="twitter:description" content="在iOS开发中与之对应的是UIWindow，我们操作的主要是UIView和UIViewController。对window的操作不多，而在macOS中，NSWindow用于设置窗口的外观和行为。
 styleMask Link to heading 用于设置窗口样式，在window初始化时可以设置。
 常用配置 Link to heading 1.NSWindowStyleMaskTitled: 窗口有标题栏。 2.NSWindowStyleMaskClosable: 窗口可以关闭。 3.NSWindowStyleMaskResizable: 窗口可以调整大小。 4.NSWindowStyleMaskMiniaturizable: 窗口可以最小化。 5.NSWindowStyleMaskFullScreen: 窗口可以全屏显示。 6.NSWindowStyleMaskBorderless: 窗口没有边框。 7.NSWindowStyleMaskUtilityWindow: 窗口作为工具窗口显示。 8.NSWindowStyleMaskHUDWindow: 窗口作为HUD（Head-Up Display）风格显示。
 BackingStoreType Link to heading 1.NSBackingStoreRetained: 使用可保留的后备存储。窗口内容被绘制到内存中，并在需要时缓存以提高性能。这是默认值，适用于大多数情况。 2.NSBackingStoreNonretained: 使用非保留的后备存储。窗口内容被绘制到内存中，但不会被缓存，而是每次显示时都重新绘制。这可能会导致性能降低，但在某些情况下可能是必要的，例如动态内容的窗口。 3.NSBackingStoreBuffered: 使用缓冲的后备存储。窗口内容被绘制到图形处理单元的缓冲区中，并根据需要复制到屏幕上。这通常用于OpenGL或其他图形处理技术，以便更有效地管理窗口内容。
-初始化 Link to heading let window = NSWindow(contentRect: NSRect(x: 0, y: 0, width: 800, height: 600), styleMask: [.titled, .closable, .miniaturizable, .resizable], backing: .buffered, defer: false) //是否延迟执行 // 设置窗口标题 window.title = &#34;My App&#34; "/>
+初始化 Link to heading let window = NSWindow(contentRect: NSRect(x: 0, y: 0, width: 800, height: 600), styleMask: [.titled, .closable, .miniaturizable, .resizable], backing: .buffered, defer: false) //是否延迟执行 // 设置窗口标题 window.title = &#34;My App&#34; ">
 
-<meta property="og:title" content="NSWindow学习" />
-<meta property="og:description" content="在iOS开发中与之对应的是UIWindow，我们操作的主要是UIView和UIViewController。对window的操作不多，而在macOS中，NSWindow用于设置窗口的外观和行为。
+<meta property="og:url" content="http://MKCodeMan.github.io/zh/posts/%E5%AD%A6%E4%B9%A0/osx%E5%BC%80%E5%8F%91/nswindow%E5%AD%A6%E4%B9%A0/">
+  <meta property="og:site_name" content="杨尚达">
+  <meta property="og:title" content="NSWindow学习">
+  <meta property="og:description" content="在iOS开发中与之对应的是UIWindow，我们操作的主要是UIView和UIViewController。对window的操作不多，而在macOS中，NSWindow用于设置窗口的外观和行为。
 styleMask Link to heading 用于设置窗口样式，在window初始化时可以设置。
 常用配置 Link to heading 1.NSWindowStyleMaskTitled: 窗口有标题栏。 2.NSWindowStyleMaskClosable: 窗口可以关闭。 3.NSWindowStyleMaskResizable: 窗口可以调整大小。 4.NSWindowStyleMaskMiniaturizable: 窗口可以最小化。 5.NSWindowStyleMaskFullScreen: 窗口可以全屏显示。 6.NSWindowStyleMaskBorderless: 窗口没有边框。 7.NSWindowStyleMaskUtilityWindow: 窗口作为工具窗口显示。 8.NSWindowStyleMaskHUDWindow: 窗口作为HUD（Head-Up Display）风格显示。
 BackingStoreType Link to heading 1.NSBackingStoreRetained: 使用可保留的后备存储。窗口内容被绘制到内存中，并在需要时缓存以提高性能。这是默认值，适用于大多数情况。 2.NSBackingStoreNonretained: 使用非保留的后备存储。窗口内容被绘制到内存中，但不会被缓存，而是每次显示时都重新绘制。这可能会导致性能降低，但在某些情况下可能是必要的，例如动态内容的窗口。 3.NSBackingStoreBuffered: 使用缓冲的后备存储。窗口内容被绘制到图形处理单元的缓冲区中，并根据需要复制到屏幕上。这通常用于OpenGL或其他图形处理技术，以便更有效地管理窗口内容。
-初始化 Link to heading let window = NSWindow(contentRect: NSRect(x: 0, y: 0, width: 800, height: 600), styleMask: [.titled, .closable, .miniaturizable, .resizable], backing: .buffered, defer: false) //是否延迟执行 // 设置窗口标题 window.title = &#34;My App&#34; " />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="http://MKCodeMan.github.io/zh/posts/%E5%AD%A6%E4%B9%A0/osx%E5%BC%80%E5%8F%91/nswindow%E5%AD%A6%E4%B9%A0/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2024-04-15T10:27:06+08:00" />
-<meta property="article:modified_time" content="2024-04-15T10:27:06+08:00" />
+初始化 Link to heading let window = NSWindow(contentRect: NSRect(x: 0, y: 0, width: 800, height: 600), styleMask: [.titled, .closable, .miniaturizable, .resizable], backing: .buffered, defer: false) //是否延迟执行 // 设置窗口标题 window.title = &#34;My App&#34; ">
+  <meta property="og:locale" content="zh">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-04-15T10:27:06+08:00">
+    <meta property="article:modified_time" content="2024-04-15T10:27:06+08:00">
+    <meta property="article:tag" content="Mac开发">
+    <meta property="article:tag" content="学习">
 
 
 
@@ -298,6 +303,9 @@ BackingStoreType Link to heading 1.NSBackingStoreRetained: 使用可保留的后
 
 
   
+  
+
+
 
   
 
