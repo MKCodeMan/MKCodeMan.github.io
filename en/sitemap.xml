@@ -2,11 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://MKCodeMan.github.io/tags/exam/</loc>
-    <lastmod>2024-05-03T15:58:33+08:00</lastmod>
+    <loc>http://MKCodeMan.github.io/tags/alert/</loc>
+    <lastmod>2024-05-05T14:37:11+08:00</lastmod>
+  </url><url>
+    <loc>http://MKCodeMan.github.io/authors/</loc>
+    <lastmod>2024-05-05T14:37:11+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://MKCodeMan.github.io/zh/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://MKCodeMan.github.io/authors/"
+                />
   </url><url>
     <loc>http://MKCodeMan.github.io/tags/idphotoman/</loc>
-    <lastmod>2024-05-03T15:58:33+08:00</lastmod>
+    <lastmod>2024-05-05T14:37:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -18,11 +31,8 @@
                 href="http://MKCodeMan.github.io/tags/idphotoman/"
                 />
   </url><url>
-    <loc>http://MKCodeMan.github.io/tags/photosize/</loc>
-    <lastmod>2024-05-03T15:58:33+08:00</lastmod>
-  </url><url>
     <loc>http://MKCodeMan.github.io/posts/</loc>
-    <lastmod>2024-05-03T15:58:33+08:00</lastmod>
+    <lastmod>2024-05-05T14:37:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -35,7 +45,7 @@
                 />
   </url><url>
     <loc>http://MKCodeMan.github.io/</loc>
-    <lastmod>2024-05-03T15:58:33+08:00</lastmod>
+    <lastmod>2024-05-05T14:37:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -47,8 +57,11 @@
                 href="http://MKCodeMan.github.io/"
                 />
   </url><url>
+    <loc>http://MKCodeMan.github.io/authors/shangda-yang/</loc>
+    <lastmod>2024-05-05T14:37:11+08:00</lastmod>
+  </url><url>
     <loc>http://MKCodeMan.github.io/tags/</loc>
-    <lastmod>2024-05-03T15:58:33+08:00</lastmod>
+    <lastmod>2024-05-05T14:37:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -59,6 +72,15 @@
                 hreflang="en"
                 href="http://MKCodeMan.github.io/tags/"
                 />
+  </url><url>
+    <loc>http://MKCodeMan.github.io/posts/idphotopro/%E6%8F%90%E7%A4%BA%E4%BF%A1%E6%81%AF/idphoto_printalert_korea/</loc>
+    <lastmod>2024-05-05T14:37:11+08:00</lastmod>
+  </url><url>
+    <loc>http://MKCodeMan.github.io/tags/exam/</loc>
+    <lastmod>2024-05-03T15:58:33+08:00</lastmod>
+  </url><url>
+    <loc>http://MKCodeMan.github.io/tags/photosize/</loc>
+    <lastmod>2024-05-03T15:58:33+08:00</lastmod>
   </url><url>
     <loc>http://MKCodeMan.github.io/posts/idphotopro/%E8%A7%84%E6%A0%BC%E8%A6%81%E6%B1%82/%E8%80%83%E8%AF%95_%E6%97%A5%E6%96%87/taxaccountant_exam_japan/</loc>
     <lastmod>2024-05-03T15:58:33+08:00</lastmod>
@@ -158,22 +180,6 @@
   </url><url>
     <loc>http://MKCodeMan.github.io/posts/idphotopro/%E8%A7%84%E6%A0%BC%E8%A6%81%E6%B1%82/%E7%AD%BE%E8%AF%81%E8%A6%81%E6%B1%82_%E6%97%A5%E6%96%87/korea_visa_japan/</loc>
     <lastmod>2024-04-13T15:58:33+08:00</lastmod>
-  </url><url>
-    <loc>http://MKCodeMan.github.io/authors/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://MKCodeMan.github.io/zh/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://MKCodeMan.github.io/authors/"
-                />
-  </url><url>
-    <loc>http://MKCodeMan.github.io/authors/shangda-yang/</loc>
-    <lastmod>2024-04-02T14:37:11+08:00</lastmod>
   </url><url>
     <loc>http://MKCodeMan.github.io/posts/idphotopro/%E9%9A%90%E7%A7%81%E5%8D%8F%E8%AE%AE/privacy_policy_idphotoman_koera_ios/</loc>
     <lastmod>2024-04-02T14:37:11+08:00</lastmod>
